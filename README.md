@@ -1,4 +1,4 @@
-![Docker badge](https://github.com/PMET-public/docker-nginx-with-pagespeed/workflows/build%20and%20publish%20to%20Docker%20Hub/badge.svg?branch=master)
+![Docker badge](https://github.com/PMET-public/docker-nginx-with-pagespeed/workflows/build%20and%20publish%20to%20Docker%20Hub/badge.svg?branch=develop)
 
 # docker-nginx-with-pagespeed
 
